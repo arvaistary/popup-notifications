@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name: Popup Notifications
- * Plugin URI: https://github.com/arvaistary
+ * Plugin URI: https://github.com/arvaistary/popup-notifications
  * Description: Плагин для управления всплывающими уведомлениями с настройками в админ-панели. Уведомления появляются через 2 минуты после загрузки страницы.
  * Version: 2.0.0
  * Author: by ArvaIstary
